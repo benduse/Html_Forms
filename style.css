@@ -5,6 +5,8 @@ form {
   padding: 16px; 
   box-sizing:border-box;
   background:#a59daf;
+  border-style:ridge;
+  
 }
 
 button{
